@@ -48,6 +48,7 @@ class Game
       else
         puts "\n#{@current_player.name}: YES! You are correct!"
       end
+
       turn_end
     end
     game_over
