@@ -5,9 +5,7 @@
   - Keep track of lives
 
   Questions:  
-  - Initialize random question (a plus b format)
-  - Ask Question
-  - Determine if answer correct or not
+  - Initialize random question (a plus b format) and answer
 
   Game: 
   - Initialize game - Player1, Player2, Current Player
